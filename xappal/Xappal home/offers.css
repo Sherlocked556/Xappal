@@ -15,6 +15,11 @@
 .im1{
 float: right;
 }
+.offers{
+    opacity: 0.8;
+    background-color:rgba(22, 17, 17, 0.973);;
+    color: white; 
+}
 .bum{
     background: rgba(0, 0, 0, 0.911);
     color: antiquewhite;

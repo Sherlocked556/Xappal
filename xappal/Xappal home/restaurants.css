@@ -31,3 +31,6 @@ h2{
 #search{
 float: right;
 }
+.last{
+    align-items: center;
+}
