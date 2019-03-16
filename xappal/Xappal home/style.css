@@ -1,0 +1,38 @@
+#logo{
+    height: 2em;
+    width:5em;
+}
+.item{
+    width: 30%;
+    background-color:rgba(22, 17, 17, 0.973);
+    color: antiquewhite;
+    margin:10px auto;
+    border-radius: 15%;
+    font-family: 'Raleway', sans-serif;
+    border: 1px solid antiquewhite;
+
+}
+.im1{
+float: right;
+}
+.bum{
+    background: rgba(0, 0, 0, 0.911);
+    color: antiquewhite;
+    float: right;
+    width: 90px;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+    background-color:rgba(22, 17, 17, 0.973);
+    color: antiquewhite;
+    width: 1600px;
+
+}
+#search{
+float: right;
+}
+#logout{
+    margin: 0px 0px 0px 850px;
+    align-items: flex-end;
+    text-align: right;
+}
