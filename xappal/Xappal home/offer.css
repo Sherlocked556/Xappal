@@ -15,6 +15,11 @@
 .im1{
 float: right;
 }
+.offers{
+    opacity: 0.8;
+    background-color: green;
+    color: white; 
+}
 .bum{
     background: rgba(0, 0, 0, 0.911);
     color: antiquewhite;
@@ -30,4 +35,9 @@ h2{
 }
 #search{
 float: right;
+}
+#logout{
+    margin: 0px 0px 0px 850px;
+    align-items: flex-end;
+    text-align: right;
 }
